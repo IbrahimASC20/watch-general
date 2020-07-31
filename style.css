@@ -1,0 +1,45 @@
+/* 'Dosis', sans-serif;
+font-family: 'Tangerine', cursive;
+font-family: 'Unica One', cursive;
+*/
+body {
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+header {
+    font-size: 72px;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    margin-bottom: 20px;
+}
+h3 {
+    font-family: 'Unica One', cursive;
+    text-align: center;
+    font-size: 26px;
+}
+.top img {
+    width: 540 px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+.watch_container img  {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100px;
+    float: left;
+}
+.watch_container {
+    border-radius: 13;
+    border-style: solid;
+}
+.text .watch_description {
+    font-family: "Dosis", sans-serif;
+
+}
+.text {
+    font-family: "Unica_One"
+    
+
+}
+
